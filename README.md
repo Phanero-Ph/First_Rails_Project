@@ -1,5 +1,5 @@
 # README
-Version control System
+First Ruby Repo Version control System by Wuese Philip
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
